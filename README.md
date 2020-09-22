@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## It's Ajinkya Pathak
 
+<marquee><b>Software Engineer 👨‍💻|Python 🐍|AI 🤖|Data science 📈|Machine Learning ⚙️|Data Visualization 📊 </b></marquee>
 <!--
 **Ajinkz/ajinkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
