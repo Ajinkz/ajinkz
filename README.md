@@ -1,5 +1,5 @@
 ### Hi there 👋
-## It's Ajinkya Pathak
+## It's Ajinkya 
 
 <marquee><b>Software Engineer 👨‍💻|Pythonist 🐍|AI 🤖|Data science 📈|Data Engineer ⚙️|Data Visualization 📊 </b></marquee>
 <!--
