@@ -3,7 +3,7 @@
 
 <marquee><b>Software Engineer 👨‍💻|Pythonist 🐍|AI 🤖|Data science 📈|Data Engineer ⚙️|Data Visualization 📊 </b></marquee>
 
-### Contributed to Sublime Text Plugin ![Code Time]("https://github.com/swdotcom/swdc-sublime")
+#### Contributed to Sublime Text Plugin ![Code Time]("https://github.com/swdotcom/swdc-sublime")
 <!--
 **Ajinkz/ajinkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
